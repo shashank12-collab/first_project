@@ -1,2 +1,3 @@
 # first_project
-This is a simple website that i recently make  with HTML and CSS  only
+This is a simple website that i recently made with HTML and CSS  only
+
